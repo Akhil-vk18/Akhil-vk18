@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on secret project<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with javaScript<br>🌱 I’m currently learning Flutter <br>💬 Ask me about<br>⚡ Fun fact
-
+🔭 I’m currently working on secret project<br>🤝 I’m looking for help with Mern stack <br>🌱 I’m currently learning Flutter <br>💬 Ask me about<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhil-santhosh-1b381228a) 
