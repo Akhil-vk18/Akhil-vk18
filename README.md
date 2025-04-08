@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently doing stuffs in streamlit.<br>👯 Streamlit & Django.<br>🤝 I’m looking for help with ML <br>🌱 I’m currently learning Flutter <br>⚡ Do more stuffs than shits. 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Akhil-vk18&color=blueviolet)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/akhil4823) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akhil-santhosh-1b381228a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhilsanthosh043@gmail.com) 
