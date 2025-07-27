@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently doing stuffs in streamlit.<br>👯 Streamlit & Django.<br>🤝 I’m looking for help with ML <br>🌱 I’m currently learning Flutter <br>⚡ Do more stuffs than shits. 
+🔭 I’m currently doing stuffs in Java.<br>👯 Streamlit & React <br>🤝 I’m looking for help with ML <br>🌱 I’m currently learning Springboot <br>⚡ Do more stuffs than shits. 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akhil-vk18&color=blueviolet)
 
